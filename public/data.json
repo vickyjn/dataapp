@@ -1,0 +1,713 @@
+{
+    "nodes": [
+      
+        {
+          "id": "dashboard",
+          "group": "dashboard"
+        },
+        {
+          "id": "@angular/animations",
+          "group": "@angular/animations"
+        },
+        {
+          "id": "@angular/common",
+          "group": "@angular/common"
+        },
+        {
+          "id": "@angular/compiler",
+          "group": "@angular/compiler"
+        },
+        {
+          "id": "@angular/core",
+          "group": "@angular/core"
+        },
+      
+        {
+          "id": "@angular/http",
+          "group": "@angular/http"
+        },
+        {
+          "id": "@angular/platform-browser",
+          "group": "@angular/platform-browser"
+        },
+        {
+          "id": "@angular/platform-browser-dynamic",
+          "group": "@angular/platform-browser-dynamic"
+        },
+        {
+          "id": "@angular/router",
+          "group": "@angular/router"
+        },
+        {
+          "id": "bootstrap",
+          "group": "bootstrap"
+        },
+        {
+          "id": "core-js",
+          "group": "core-js"
+        },
+        {
+          "id": "d3",
+          "group": "d3"
+        },
+        {
+          "id": "d3-gantt-chart",
+          "group": "d3-gantt-chart"
+        },
+        {
+          "id": "rxjs",
+          "group": "rxjs"
+        },
+        {
+          "id": "topojson",
+          "group": "topojson"
+        },
+        {
+          "id": "zone.js",
+          "group": "zone.js"
+        },
+        {
+          "id": "chat-app",
+          "group": "chat-app"
+        },
+        {
+          "id": "express",
+          "group": "express"
+        },
+        {
+          "id": "nodemon",
+          "group": "nodemon"
+        },
+        {
+          "id": "socket.io",
+          "group": "socket.io"
+        },
+        {
+          "id": "hero",
+          "group": "hero"
+        },
+        {
+          "id": "apiai",
+          "group": "apiai"
+        },
+        {
+          "id": "body-parser",
+          "group": "body-parser"
+        },
+        
+      
+        {
+          "id": "request",
+          "group": "request"
+        },
+        {
+          "id": "uuid",
+          "group": "uuid"
+        },
+        {
+          "id": "plan-app",
+          "group": "plan-app"
+        },
+       
+       
+        {
+          "id": "@angular/forms",
+          "group": "@angular/forms"
+        },
+        
+      
+      
+       
+        {
+          "id": "@swimlane/ngx-charts",
+          "group": "@swimlane/ngx-charts"
+        },
+        
+        
+        
+       
+        {
+          "id": "lbweb",
+          "group": "lbweb"
+        },
+        {
+          "id": "@material-ui/core",
+          "group": "@material-ui/core"
+        },
+        {
+          "id": "@material-ui/icons",
+          "group": "@material-ui/icons"
+        },
+        {
+          "id": "@testing-library/jest-dom",
+          "group": "@testing-library/jest-dom"
+        },
+        {
+          "id": "@testing-library/react",
+          "group": "@testing-library/react"
+        },
+        {
+          "id": "@testing-library/user-event",
+          "group": "@testing-library/user-event"
+        },
+        {
+          "id": "react",
+          "group": "react"
+        },
+        {
+          "id": "react-dom",
+          "group": "react-dom"
+        },
+        {
+          "id": "react-scripts",
+          "group": "react-scripts"
+        },
+        {
+          "id": "web-vitals",
+          "group": "web-vitals"
+        },
+        {
+          "id": "oas-schemas",
+          "group": "oas-schemas"
+        },
+        {
+          "id": "rcapp",
+          "group": "rcapp"
+        },
+        
+        {
+          "id": "socket.io",
+          "group": "socket.io"
+        },
+        {
+          "id": "txtmaterialgrid",
+          "group": "txtmaterialgrid"
+        },
+        
+       
+        {
+          "id": "react-scripts",
+          "group": "react-scripts"
+        },
+        {
+          "id": "whattowear",
+          "group": "whattowear"
+        },
+       
+        {
+          "id": "@angular/cdk",
+          "group": "@angular/cdk"
+        },
+       
+      
+       
+       
+      
+        {
+          "id": "@angular/material",
+          "group": "@angular/material"
+        },
+        
+       
+       
+       
+        {
+          "id": "hammerjs",
+          "group": "hammerjs"
+        },
+       
+       
+       
+        {
+          "id": "todoapp",
+          "group": "todoapp"
+        },
+       
+        {
+          "id": "mongodb",
+          "group": "mongodb"
+        },
+        {
+          "id": "mongoose",
+          "group": "mongoose"
+        },
+        {
+          "id": "vue-app",
+          "group": "vue-app"
+        },
+       
+        {
+          "id": "vue",
+          "group": "vue"
+        },
+        {
+          "id": "whattowear",
+          "group": "whattowear"
+        },
+       
+        {
+          "id": "@angular/cdk",
+          "group": "@angular/cdk"
+        }
+   
+       
+      
+       
+      
+     
+       
+      
+       
+        
+       
+      ],
+    "links": [
+      
+        {
+          "source": "dashboard",
+          "target": "@angular/animations",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/common",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/compiler",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/core",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/forms",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/http",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/platform-browser",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/platform-browser-dynamic",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "@angular/router",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "bootstrap",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "core-js",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "d3",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "d3-gantt-chart",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "rxjs",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "topojson",
+          "value": 1
+        },
+        {
+          "source": "dashboard",
+          "target": "zone.js",
+          "value": 1
+        },
+        {
+          "source": "chat-app",
+          "target": "express",
+          "value": 1
+        },
+        {
+          "source": "chat-app",
+          "target": "nodemon",
+          "value": 1
+        },
+        {
+          "source": "chat-app",
+          "target": "socket.io",
+          "value": 1
+        },
+        {
+          "source": "hero",
+          "target": "apiai",
+          "value": 1
+        },
+        {
+          "source": "hero",
+          "target": "body-parser",
+          "value": 1
+        },
+        {
+          "source": "hero",
+          "target": "express",
+          "value": 1
+        },
+        {
+          "source": "hero",
+          "target": "request",
+          "value": 1
+        },
+        {
+          "source": "hero",
+          "target": "uuid",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/animations",
+          "value": 100000000
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/common",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/compiler",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/core",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/forms",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/http",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/platform-browser",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/platform-browser-dynamic",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@angular/router",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "@swimlane/ngx-charts",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "bootstrap",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "core-js",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "rxjs",
+          "value": 1
+        },
+        {
+          "source": "plan-app",
+          "target": "zone.js",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "@material-ui/core",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "@material-ui/icons",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "@testing-library/jest-dom",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "@testing-library/react",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "@testing-library/user-event",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "react",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "react-dom",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "react-scripts",
+          "value": 1
+        },
+        {
+          "source": "lbweb",
+          "target": "web-vitals",
+          "value": 1
+        },
+        {
+          "source": "rcapp",
+          "target": "express",
+          "value": 1
+        },
+        {
+          "source": "rcapp",
+          "target": "socket.io",
+          "value": 1
+        },
+        {
+          "source": "txtmaterialgrid",
+          "target": "react",
+          "value": 1
+        },
+        {
+          "source": "txtmaterialgrid",
+          "target": "react-dom",
+          "value": 1
+        },
+        {
+          "source": "txtmaterialgrid",
+          "target": "react-scripts",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/animations",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/cdk",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/common",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/compiler",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/core",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/forms",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/http",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/material",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/platform-browser",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/platform-browser-dynamic",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/router",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "core-js",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "hammerjs",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "rxjs",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "zone.js",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "d3",
+          "value": 1
+        },
+        {
+          "source": "todoapp",
+          "target": "express",
+          "value": 1
+        },
+        {
+          "source": "todoapp",
+          "target": "mongodb",
+          "value": 1
+        },
+        {
+          "source": "todoapp",
+          "target": "mongoose",
+          "value": 1
+        },
+        {
+          "source": "vue-app",
+          "target": "core-js",
+          "value": 1
+        },
+        {
+          "source": "vue-app",
+          "target": "vue",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/animations",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/cdk",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/common",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/compiler",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/core",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/forms",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/http",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/material",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/platform-browser",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/platform-browser-dynamic",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "@angular/router",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "core-js",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "hammerjs",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "rxjs",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "zone.js",
+          "value": 1
+        },
+        {
+          "source": "whattowear",
+          "target": "d3",
+          "value": 1
+        }
+      ]
+    
+  }
